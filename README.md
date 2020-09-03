@@ -1,8 +1,27 @@
+This App was created in collaboration with Chris Fraser, Steve Vance and myself James Fraser. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+Snooker scorer app
+
+(npx create-react-app snooker_scorer
+ cd snooker_scorer
+ npm start)
+
+(From here if your app is already created)
+npm install
+
+npm start
+
+npm install @sweetalert/with-react
+
+npm install sweetalert
+
+(Install these to increase the size and style of the alerts which are a little on the small size if just using the default alerts in the browser).
 
 ### `npm start`
 
